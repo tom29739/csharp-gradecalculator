@@ -59,6 +59,22 @@ Windows
 #. Use the application as normal.
 #. Type ``dotnet run``, then press Enter again in the command window to run the application again.
 
+Contributing
+------------
+
+-  Issue tracker: https://github.com/tom29739/csharp-gradecalculator/issues
+-  Source code: https://github.com/tom29739/csharp-gradecalculator
+
+Support
+-------
+
+If you are having issues with csharp-gradecalculator, please let us know using the `https://github.com/tom29739/csharp-gradecalculator/issues`_.
+
+Licence
+-------
+
+csharp-gradecalculator is licenced under the MIT License.
+
 Indices and tables
 ==================
 
@@ -68,3 +84,4 @@ Indices and tables
 
 .. _`https://www.microsoft.com/net/download/core#/sdk`: .NET%20Core%20runtime
 .. _`https://github.com/tom29739/csharp-gradecalculator/archive/master.zip`: Download%20the%20software
+.. _`https://github.com/tom29739/csharp-gradecalculator/issues`: issue%20tracker
