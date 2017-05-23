@@ -37,9 +37,34 @@ Unfortunately the software does not have any pre-compiled binaries at
 the moment, so it is necessary to compile the program from its source
 code.
 
+Installation from source code
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+csharp-gradecalculator supports Windows, macOS, and Linux.
+
+Windows
+^^^^^^^
+
+#. Ensure that the .NET Core runtime is installed:
+   #. Download the `https://www.microsoft.com/net/download/core#/sdk`_
+   installer.
+   #. Install the .NET core runtime by running the installer and following
+   the steps (administrator access is needed for this).
+#. `https://github.com/tom29739/csharp-gradecalculator/archive/master.zip`_ from GitHub.
+#. Extract the ZIP file that the software was downloaded in with a ZIP file extractor of your choice, such as 7Zip or PeaZip. The built-in Windows Explorer extractor can also be used.
+#. Press Shift and right click in the folder that the software was extracted into.
+#. Select *"Open command window here"*. A command window should open.
+#. Type ``dotnet restore``, then press Enter in the command window to download the necessary dependencies.
+#. Type ``dotnet run``, then press Enter in the command window to run the application.
+#. Use the application as normal.
+#. Type ``dotnet run``, then press Enter again in the command window to run the application again.
+
 Indices and tables
 ==================
 
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+.. _`https://www.microsoft.com/net/download/core#/sdk`: .NET%20Core%20runtime
+.. _`https://github.com/tom29739/csharp-gradecalculator/archive/master.zip`: Download%20the%20software
