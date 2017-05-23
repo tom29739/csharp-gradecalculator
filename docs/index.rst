@@ -9,13 +9,6 @@ Welcome to csharp-gradecalculator's documentation!
 .. toctree::
    :maxdepth: 3
    :caption: Table of contents:
-   Features
-   Installation
-      Installation from source code
-         Windows
-   Contributing
-   Support
-   Licence
 
 csharp-gradecalculator is a grade calculator for BTEC qualifications,
 written in C# and using .NET Core. It calculates and looks up BTEC
@@ -46,11 +39,11 @@ Windows
 ^^^^^^^
 
 #. Ensure that the .NET Core runtime is installed:
-   #. Download the `https://www.microsoft.com/net/download/core#/sdk`_
-   installer.
-   #. Install the .NET core runtime by running the installer and following
-   the steps (administrator access is needed for this).
-#. `https://github.com/tom29739/csharp-gradecalculator/archive/master.zip`_ from GitHub.
+
+   a. Download the `.NET Core runtime`_ installer.
+   b. Install the .NET core runtime by running the installer and following the steps (administrator access is needed for this).
+
+#. `Download the software`_ from GitHub.
 #. Extract the ZIP file that the software was downloaded in with a ZIP file extractor of your choice, such as 7Zip or PeaZip. The built-in Windows Explorer extractor can also be used.
 #. Press :kbd:`Shift` + right click in the folder that the software was extracted into.
 #. Select :guilabel:`&Open command window here`. A command window should open.
@@ -68,20 +61,18 @@ Contributing
 Support
 -------
 
-If you are having issues with csharp-gradecalculator, please let us know using the `https://github.com/tom29739/csharp-gradecalculator/issues`_.
+If you are having issues with csharp-gradecalculator, please let us know using the `issue tracker`_.
 
 Licence
 -------
 
 csharp-gradecalculator is licenced under the MIT License.
 
-Indices and tables
-==================
+Links
+-----
 
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 
-.. _`https://www.microsoft.com/net/download/core#/sdk`: .NET%20Core%20runtime
-.. _`https://github.com/tom29739/csharp-gradecalculator/archive/master.zip`: Download%20the%20software
-.. _`https://github.com/tom29739/csharp-gradecalculator/issues`: issue%20tracker
+.. _.NET Core runtime: https://www.microsoft.com/net/download/core#/sdk
+.. _Download the software: https://github.com/tom29739/csharp-gradecalculator/archive/master.zip
+.. _issue tracker: https://github.com/tom29739/csharp-gradecalculator/issues

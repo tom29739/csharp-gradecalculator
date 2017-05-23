@@ -47,7 +47,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'csharp-gradecalculator'
-copyright = ' 2017, Tom D'
+copyright = ' Copyright 2017, Tom D'
 author = 'Tom D'
 
 # The version info for the project you're documenting, acts as replacement for
