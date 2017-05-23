@@ -30,6 +30,13 @@ Features
 -  Looks up BTEC grades from BTEC points
 -  Looks up UCAS points from BTEC grades
 
+Installation
+------------
+
+Unfortunately the software does not have any pre-compiled binaries at
+the moment, so it is necessary to compile the program from its source
+code.
+
 Indices and tables
 ==================
 
