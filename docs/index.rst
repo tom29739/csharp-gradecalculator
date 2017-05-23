@@ -47,10 +47,10 @@ Windows
 #. Extract the ZIP file that the software was downloaded in with a ZIP file extractor of your choice, such as 7Zip or PeaZip. The built-in Windows Explorer extractor can also be used.
 #. Press :kbd:`Shift` + right click in the folder that the software was extracted into.
 #. Select :guilabel:`&Open command window here`. A command window should open.
-#. Type :command:`dotnet restore`, then press Enter in the command window to download the necessary dependencies.
-#. Type :command:`dotnet run`, then press Enter in the command window to run the application.
+#. Type :command:`dotnet restore`, then press :kbd:`Enter` in the command window to download the necessary dependencies.
+#. Type :command:`dotnet build`, then press :kbd:`Enter` in the command window to build the application from its source code. 
+#. Type :command:`dotnet run`, then press :kbd:`Enter` in the command window to run the application.
 #. Use the application as normal.
-#. Type :command:`dotnet run`, then press Enter again in the command window to run the application again.
 
 Contributing
 ------------
