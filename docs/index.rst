@@ -21,6 +21,15 @@ csharp-gradecalculator is a grade calculator for BTEC qualifications,
 written in C# and using .NET Core. It calculates and looks up BTEC
 points and grades, in addition to UCAS points.
 
+Features
+--------
+
+-  Uses a SQLite database
+-  Calculates BTEC points from number of passes, merits, and
+   distinctions
+-  Looks up BTEC grades from BTEC points
+-  Looks up UCAS points from BTEC grades
+
 Indices and tables
 ==================
 
