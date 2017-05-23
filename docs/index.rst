@@ -53,7 +53,7 @@ Windows
 #. `https://github.com/tom29739/csharp-gradecalculator/archive/master.zip`_ from GitHub.
 #. Extract the ZIP file that the software was downloaded in with a ZIP file extractor of your choice, such as 7Zip or PeaZip. The built-in Windows Explorer extractor can also be used.
 #. Press :kbd:`Shift` + right click in the folder that the software was extracted into.
-#. Select :guilabel:`Open command window here`. A command window should open.
+#. Select :guilabel:`&Open command window here`. A command window should open.
 #. Type :command:`dotnet restore`, then press Enter in the command window to download the necessary dependencies.
 #. Type :command:`dotnet run`, then press Enter in the command window to run the application.
 #. Use the application as normal.
