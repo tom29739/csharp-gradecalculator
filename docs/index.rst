@@ -7,9 +7,15 @@ Welcome to csharp-gradecalculator's documentation!
 ==================================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
+   :maxdepth: 3
+   :caption: Table of contents:
+   Features
+   Installation
+      Installation from source code
+         Windows
+   Contributing
+   Support
+   Licence
 
 
 Indices and tables
