@@ -66,7 +66,7 @@ namespace csharp_gradecalculator
             {
                 {3, "Certificate" },
                 {6, "SubsidiaryDiploma" },
-                {9, "90CreditDiploma" },
+                {9, "NinetyCreditDiploma" },
                 {12, "Diploma" },
                 {18, "ExtendedDiploma"}
             };
@@ -94,7 +94,7 @@ namespace csharp_gradecalculator
             {
                 {"Certificate", "Certificate" },
                 {"SubsidiaryDiploma", "Subsidiary Diploma" },
-                {"90CreditDiploma", "90 Credit Diploma" },
+                {"NinetyCreditDiploma", "90 Credit Diploma" },
                 {"Diploma", "Diploma" },
                 {"ExtendedDiploma", "Extended Diploma"}
             };
